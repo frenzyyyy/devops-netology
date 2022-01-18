@@ -8,13 +8,13 @@
 
     - Все файлы в каталогах /.terraform/  (log/.terraform/any , init/.terraform/any , script/.terraform/any)
 
-    - Файлы .tfstate и *.tfstate.* в директории с файлом .gitignore (any.tfstate , any.tfstate.log)
+    - Файлы .tfstate и *.tfstate.* (any.tfstate , any.tfstate.log)
 
-    - Файлы crash.log и crash.*.log в директории с файлом .gitignore (crash.log  , crash.1.log , crash.old.log)
+    - Файлы crash.log и crash.*.log  (crash.log  , crash.1.log , crash.old.log)
 
-    - Файлы *.tfvars в директории с файлом .gitignore (any.tfvars , 1.tfvars , main.tfvars)
+    - Файлы *.tfvars (any.tfvars , 1.tfvars , main.tfvars)
 
-    - Файлы override.tf, override.tf.json, *_override.tf, *_override.tf.json в директории с файлом .gitignore
+    - Файлы override.tf, override.tf.json, *_override.tf, *_override.tf.json
     (override.tf, override.tf.json, any._override.tf, 0ld._override.tf, 1._override.tf.json)
 
     - Файлы .terraformrc, terraform.rc
