@@ -18,3 +18,4 @@
     (override.tf, override.tf.json, any._override.tf, 0ld._override.tf, 1._override.tf.json)
 
     - Файлы .terraformrc, terraform.rc
+"New string 24.01.2022" 
